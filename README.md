@@ -10,9 +10,9 @@
 
 <p><i>Curious by nature, careful by design — building the web one thoughtful pixel at a time.</i></p>
 
-<img src="https://img.shields.io/badge/Karachi%2C%20Pakistan-1E1B4B?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" alt="Location: Karachi, Sindh, Pakistan" />
-<img src="https://img.shields.io/badge/SSUET-Software%20Engineering-1E1B4B?style=for-the-badge&logo=bookstack&logoColor=A78BFA" alt="Studying Software Engineering at SSUET" />
-<img src="https://img.shields.io/badge/Focus-Frontend%20%26%20UI-1E1B4B?style=for-the-badge&logo=css3&logoColor=22D3EE" alt="Focus: Frontend development and UI" />
+<img src="https://img.shields.io/badge/Karachi%2C%20Pakistan-1E1B4B?style=for-the-badge&labelColor=2E1065&logo=googlemaps&logoColor=22D3EE" alt="Location: Karachi, Sindh, Pakistan" />
+<img src="https://img.shields.io/badge/SSUET-Software%20Engineering-1E1B4B?style=for-the-badge&labelColor=2E1065&logo=bookstack&logoColor=A78BFA" alt="Studying Software Engineering at SSUET" />
+<img src="https://img.shields.io/badge/Focus-Frontend%20%26%20UI-1E1B4B?style=for-the-badge&labelColor=2E1065&logo=css3&logoColor=22D3EE" alt="Focus: Frontend development and UI" />
 
 </div>
 
@@ -99,16 +99,18 @@ I'm drawn to the part of software that people actually see and touch. I'm explor
      Remove any <img> below if a service is down or you prefer a cleaner look. -->
 ## ✦ GitHub Activity
 
-<sub>Fresh account — these cards are just getting started and will fill in as I commit.</sub>
+<sub>Fresh account — these cards are just getting started and will fill in as I commit. The snake below eats its way across my contribution graph.</sub>
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=musaykahmaryam&show_icons=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub statistics card for musaykahmaryam" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaykahmaryam&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most-used languages card for musaykahmaryam" />
+<!-- Most-used languages: uncomment once your public repos contain code
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaykahmaryam&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most-used languages card for musaykahmaryam" /> -->
 
 <img src="https://streak-stats.demolab.com?user=musaykahmaryam&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=F5F3FF&sideNums=F5F3FF&dates=8B949E" alt="GitHub contribution streak for musaykahmaryam" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=musaykahmaryam&bg_color=0D1117&color=A78BFA&line=7C3AED&point=22D3EE&area=true&area_color=5B21B6&hide_border=true" alt="Contribution graph for musaykahmaryam" />
+<!-- Contribution line graph (service is sometimes offline — uncomment to try it):
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=musaykahmaryam&bg_color=0D1117&color=A78BFA&line=7C3AED&point=22D3EE&area=true&area_color=5B21B6&hide_border=true" alt="Contribution graph for musaykahmaryam" /> -->
 
 </div>
 
@@ -160,10 +162,10 @@ I'm drawn to the part of software that people actually see and touch. I'm explor
 ## ✦ Connect With Me
 
 <p align="left">
-  <a href="https://github.com/musaykahmaryam"><img src="https://img.shields.io/badge/GitHub-musaykahmaryam-1E1B4B?style=for-the-badge&logo=github&logoColor=F5F3FF" alt="GitHub profile: musaykahmaryam" /></a>
-  <!-- <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-1E1B4B?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn profile" /></a> -->
-  <!-- <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Say%20hello-1E1B4B?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Send me an email" /></a> -->
-  <!-- <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-1E1B4B?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="My portfolio website" /></a> -->
+  <a href="https://github.com/musaykahmaryam"><img src="https://img.shields.io/badge/GitHub-musaykahmaryam-1E1B4B?style=for-the-badge&labelColor=2E1065&logo=github&logoColor=F5F3FF" alt="GitHub profile: musaykahmaryam" /></a>
+  <!-- <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-1E1B4B?style=for-the-badge&labelColor=2E1065&logo=linkedin&logoColor=22D3EE" alt="LinkedIn profile" /></a> -->
+  <!-- <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Say%20hello-1E1B4B?style=for-the-badge&labelColor=2E1065&logo=gmail&logoColor=A78BFA" alt="Send me an email" /></a> -->
+  <!-- <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-1E1B4B?style=for-the-badge&labelColor=2E1065&logo=googlechrome&logoColor=22D3EE" alt="My portfolio website" /></a> -->
 </p>
 
 <br />
